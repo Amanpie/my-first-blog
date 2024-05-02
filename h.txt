@@ -1,0 +1,8 @@
+cd djangogirls
+history
+dir
+eattherich\Scripts\activate.bat
+dir
+pip freeze
+doskey.exe /history
+doskey.exe /history >h.txt
